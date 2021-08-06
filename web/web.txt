@@ -1,0 +1,13 @@
+The internet works by a big network made up of smaller local networks.
+
+Hostnames are how we talk to servers. Servers are just big computers.
+IP addresses stands for interner protocol. Every computer has a unique IP address.
+Hostnames or DNS turns the IP address into a name instead of numbers.
+Browsers and servers
+Request and Response
+Request = Method (GET), HTTP,protocol, resource URL, headers.
+
+Headers are like subtext.
+
+What happens when we click a button:
+browser->local DNS cache->local router DNS->ISP DNS->the interwebs->root DNS server.
